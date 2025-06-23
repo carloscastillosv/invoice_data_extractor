@@ -1,0 +1,3 @@
+OPENAI_API_KEY=[your OpenAI API key]
+AMZ_ASSISTANT_ID=[openai assistant id that will be used to answer questions]
+AMAZON_FOLDER=[folder where amazon invoices are stored]
